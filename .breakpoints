@@ -1,0 +1,84 @@
+{
+  "files": {
+    "FastConfigFca.json": [
+      {
+        "id": "92202efb-4c9e-45b2-8148-4007c5ef1b70",
+        "line": 20,
+        "version": 1,
+        "index": 632
+      }
+    ],
+    "appstate.json": [
+      {
+        "id": "5fc27f30-73b8-42d1-b5c8-8e3cbfc8a72f",
+        "line": 1,
+        "version": 3,
+        "index": 0
+      },
+      {
+        "id": "20c220f6-bcf3-4dfb-82f3-8be35825dba9",
+        "line": 72,
+        "version": 3,
+        "index": 1203232
+      },
+      {
+        "id": "6616209b-429b-4c36-9ab3-d042c87bc52e",
+        "line": 72,
+        "version": 3,
+        "index": 1203232
+      },
+      {
+        "id": "80ba2bdc-532d-4989-bad6-f56766678b5b",
+        "line": 72,
+        "version": 3,
+        "index": 1203232
+      }
+    ],
+    "index.js": [
+      {
+        "id": "bbaea7c6-e8dd-47e9-ab51-35e45350a02b",
+        "line": 89,
+        "version": 1,
+        "index": 3541
+      }
+    ],
+    "modules/commands/botout.js": [
+      {
+        "id": "0aae08da-df83-402b-ab95-c6b79811963d",
+        "line": 13,
+        "version": 13,
+        "index": 315
+      }
+    ],
+    "modules/commands/congthuc.js": [
+      {
+        "id": "bde1cb82-71dd-41e2-8439-ea36257f2a1b",
+        "line": 3,
+        "version": 1,
+        "index": 1133
+      }
+    ],
+    "modules/commands/uptvip.js": [
+      {
+        "id": "d1fb31f2-7b2b-4c02-bcdd-b087482471cf",
+        "line": 37,
+        "version": 12,
+        "index": 1415
+      }
+    ],
+    "modules/commands/ảnh.js": [
+      {
+        "id": "8f3b548a-5034-4537-b79f-03f26409c619",
+        "line": 76,
+        "version": 7,
+        "index": 3215
+      },
+      {
+        "id": "e388e7dc-4260-40d4-94fd-1c1401ab47e0",
+        "line": 87,
+        "version": 41,
+        "index": 3631
+      }
+    ]
+  }
+}

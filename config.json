@@ -1,0 +1,205 @@
+{
+    "notiGroup": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "NOTIFICATION": true,
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminOnly": false,
+    "encryptSt": false,
+    "UPTIME": 447440.08914469805,
+    "DASHBOARD": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "accbotryo@gmail.com",
+    "PASSWORD": "22narut.",
+    "OTPKEY": "89821304",
+    "BOTNAME": "𝗕𝗼𝘁 𝗛𝘁 🌸",
+    "PREFIX": ".",
+    "ADMINBOT": [
+        "100082301112064",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1035862523",
+        "100001212336142",
+        "100039620811888",
+        "100041385401315",
+        "100046078387032",
+        "100050211051726",
+        "100050714739435",
+        "100059243569226",
+        "100063463650761",
+        "100069085868307",
+        "100069495428719",
+        "100070150232632",
+        "100078052483646",
+        "100084409835029",
+        "1595029362",
+        "100006341281590",
+        "1131820834",
+        "1634168268",
+        "100050444239653",
+        "100084325448341"
+    ],
+    "NDH": [
+        "100082301112064",
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "NPM_FCA": "fca-horizon-remake",
+    "SETUP_WIN": {
+        "port": 8888,
+        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "version": "1.2.14",
+    "help": {
+        "autoUnsend": false,
+        "delayUnsend": 99999,
+        "unsendMessageAfter": 5000000
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "baolixi": {
+        "cooldownTime": 1200000
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "gamelq": {
+        "cooldownTime": 60
+    },
+    "lamviec": {
+        "cooldownTime": 1200000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 6120
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 20
+    },
+    "sim": {
+        "APIKEY": "Meew_fpt8rxxlwH1MzNcygOzzWwqYML5yoA"
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "áº£nh": {
+        "API_KEY": "DC-N_dbd739ba-e1fd-49f5-ac00-29c429e88738"
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "zwar": {
+        "cooldownTime": 1200000
+    },
+    "cavevip": {
+        "cooldownTime": 1200000
+    },
+    "tbank": {
+        "key": "DUBFREE"
+    },
+    "xedua": {
+        "key": "Nghia9005"
+    },
+    "check3": {
+        "maxColumn": 10
+    },
+    "duaxe": {
+        "key": "ThanhAli"
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyBDYHNvjjypPX1CGE7qcW9GSo_CAEWRw9s"
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "voice": {
+        "zalo_apikey": "r5lKNWX89OJEJMXlUEpGEzcjByjGb2F0",
+        "fpt_apikey": "MhYPX3ksxwdqLC63LiAR4r47sOrkSdhj"
+    },
+    "daily": {
+        "cooldownTime": 86400000,
+        "rewardCoin": 5000,
+        "rewardUsages": 100
+    },
+    "dino": {
+        "cooldownTime": 1000000
+    },
+    "ảnh": {
+        "API_KEY": "DC-N_dbd739ba-e1fd-49f5-ac00-29c429e88738"
+    },
+    "youtube": {
+        "YOUTUBE_API": "AIzaSyBNqRSYmQ9D1WWIa186k8nSvo5mr2Rvk5M"
+    },
+    "alladminonly": true,
+    "ndhOnly": false,
+    "allqtvonly": true,
+    "tiktok": {
+        "key": "nLXuitFX"
+    },
+    "audio": {
+        "YOUTUBE_API": "AIzaSyBKgc6dhJ7kn4cSxqVOckkGFL0h4cryxKQ"
+    },
+    "lq1": {
+        "fb_token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "nhantien": {
+        "cooldownTime": 300000
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBqeKbtKeo0mDcNXDpfwHKH0EHEEdmbre8"
+    },
+    "adminPersonalOnly": false
+}
